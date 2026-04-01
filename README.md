@@ -1,1 +1,1 @@
-v
+OHS training - demo version
